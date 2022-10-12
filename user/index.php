@@ -172,6 +172,9 @@ include 'assets/inc/koneksi.php';
           case "tambah_news":
             include "tambahnews.php";
             break;
+          case "tambah_produk":
+            include "tambahproduct.php";
+            break;
         }
       } else {
       ?>

@@ -33,7 +33,7 @@ include 'assets/inc/koneksi.php';
 
         <form action="" method="POST">
           <div class="input-group mb-3">
-            <input type="text" name="user" class="form-control" placeholder="Nama">
+            <input type="text" name="user" class="form-control" placeholder="Nama Lengkap">
             <div class="input-group-append">
               <div class="input-group-text">
                 <span class="fas fa-envelope"></span>
